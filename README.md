@@ -1,49 +1,53 @@
 # Aeolian Memories: Texture of Deep Time
 
 ## Short Description
-[cite_start]**Aeolian Memories** is a generative artwork that simulates wind erosion and sedimentary layering to materialize the passage of "Deep Time" into the textures of a digital record[cite: 3]. [cite_start]It transforms the digital canvas into a "tracing record" where invisible temporal forces become intricate patterns[cite: 10].
+**Aeolian Memories** is a generative artwork that simulates the incremental processes of wind erosion and sedimentary layering. It aims to materialize the abstract concept of "Deep Time" into a tangible digital texture, transforming a canvas into a long-term temporal record.
 
 ## Concept / Intent
-[cite_start]The project explores how humans perceive and experience vast geological scales that exceed human comprehension[cite: 7, 12].
-* [cite_start]**Deep Time Perception:** Inspired by John McPhee’s *Annals of the Former World*, the work treats the landscape not as a static object but as a dynamic record of long-term change[cite: 14].
-* [cite_start]**Yardang Landforms:** The visual structure mimics horizontal ridges and grooves formed by millennia of constant winds interacting with minerals[cite: 15, 16].
-* [cite_start]**Permanent Accumulation:** Moving away from ephemeral motion, the system treats the canvas as a substrate that retains and compresses its own history[cite: 67, 68].
-* [cite_start]**Sedimentation of Mind:** Drawing on Robert Smithson’s *Earth Projects*, the artistic form is framed as a temporal process shaped by accumulation and erosion[cite: 73].
+The project is a computational exploration of geological scales that exceed human lifespans. 
+* **Deep Time:** Inspired by John McPhee’s *Annals of the Former World*, the work treats the digital canvas as a metamorphic substrate where time is recorded physically rather than measured abstractly.
+* **Yardang Geomorphology:** The visual logic mimics the ridges and furrows of Yardang landforms, created by the relentless interaction between prevailing winds and varying mineral hardness.
+* **Artistic Context:** Drawing on Robert Smithson’s *A Sedimentation of the Mind*, the project frames "entropy" and "accumulation" as artistic tools. By using a near-zero background refresh rate, every particle trace is preserved, creating a "sedimentary" effect where history is compressed into visual density.
 
 ## Technology Used
-* [cite_start]**p5.js Framework:** Used for the core computational exploration and visual simulation[cite: 8].
-* [cite_start]**Agent-Based Modeling:** Thousands of autonomous "Grains" (8,000 agents) act as agents of wind erosion[cite: 105, 113].
-* [cite_start]**Perlin Noise & Flow Fields:** Implemented to simulate the rhythmic, generally horizontal movement of wind[cite: 106, 145].
-* **p5.sound:** Real-time audio synthesis using Pink Noise and LowPass filters to mimic the "howling" resonance of wind based on particle velocity.
-* [cite_start]**Additive Blending:** Utilizes the `SCREEN` blend mode and near-zero background refresh to sediment past states into visual density[cite: 72, 110].
+* **p5.js:** The primary framework used for high-density particle simulation and canvas manipulation.
+* **Agent-Based Modeling:** A system of 8,000 autonomous "Grains" that respond to a simulated flow field.
+* **Perlin Noise:** Utilized to generate the underlying "wind" vectors and organic, non-linear movement patterns.
+* **p5.sound:** Implements a dynamic audio environment using a **Pink Noise** generator and a **LowPass Filter**. The audio resonance and frequency are mapped to the real-time velocity of the particles to simulate wind howling.
 
 ## How to Run / Install
-1. **Launch:** Run the sketch in a p5.js compatible environment (e.g., [p5.js Web Editor](https://editor.p5js.org/)).
-2. **Audio Activation:** Click the screen to initialize the background sound and wind resonance.
-3. **Fullscreen Mode:** Press the **"F"** key to toggle fullscreen (recommended for exhibitions).
-4. **Auto-Reset:** Note that the program will restart automatically upon window resizing to recalibrate the particle system.
+1. **Environment:** Open the project in the [p5.js Web Editor](https://editor.p5js.org/) or any local server environment.
+2. **Audio Initialization:** Click anywhere on the canvas after the sketch loads to enable the audio context.
+3. **Controls:** - Press **"F"** to toggle Fullscreen mode (optimized for gallery projection).
+    - Note: Resizing the window will automatically trigger a `resetSketch()` to recalibrate the density for the new resolution.
 
 ## Requirements
-* **Browser:** A modern web browser with WebGL/Canvas support (Chrome, Firefox, or Edge).
-* **Libraries:** Includes `p5.js` and `p5.sound.js`.
-* [cite_start]**Hardware:** Performance varies with particle density; a standard GPU is recommended for smooth rendering of 8,000 agents[cite: 173].
+* **Tech Stack:** JavaScript (p5.js library).
+* **Libraries:** `p5.js` (v1.x) and `p5.sound.js`.
+* **Browser:** Modern browsers with Canvas API support (Chrome, Firefox, or Safari).
+* **Display:** Optimized for high-contrast projection on physical surfaces (e.g., white gallery walls).
 
 ## Screenshots / Media
-* [cite_start]**Visual Records:** Intricate textures simulating wind-eroded patterns[cite: 1, 87].
-* [cite_start]**Conceptual Sketches:** Brainstorming structures and texture studies based on geological landforms[cite: 66, 141].
+*(Note: Please replace these placeholders with your actual image files or links)*
+![Final Generative Texture](path/to/your/screenshot1.png)
+*Initial erosion patterns and sedimentary layering.*
+
+![Conceptual Sketch](path/to/your/sketch.png)
+*Study of Yardang landforms and particle flow logic.*
 
 ## Credits / Acknowledgements
-* [cite_start]**Author:** Huayang Lei[cite: 2, 5].
-* [cite_start]**Technical References:** * *Slime Molds* by Patt Vira (sensing and rotating logic)[cite: 75, 102].
-    * [cite_start]*The Nature of Code* by Daniel Shiffman (particle systems and flow fields)[cite: 187].
-* **Artistic/Scientific References:**
-    * [cite_start]*Annals of the Former World* by John McPhee[cite: 14, 186].
-    * [cite_start]*Deep Time Reckoning* by Vincent Ialenti[cite: 184].
-    * [cite_start]*Earth Projects* by Robert Smithson[cite: 73].
+* **Author:** Huayang Lei.
+* **Technical References:** - *Slime Molds* by Patt Vira (logic for autonomous agent sensing).
+    - *The Nature of Code* by Daniel Shiffman (autonomous agents and vector math).
+* **Conceptual References:**
+    - John McPhee, *Annals of the Former World*.
+    - Vincent Ialenti, *Deep Time Reckoning*.
+    - Robert Smithson, *A Sedimentation of the Mind: Earth Projects*.
 
 ## License
-Created for WCC1 Final Project at Goldsmiths, University of London. All Rights Reserved.
+This project is licensed under the **MIT License**.
 
 ## Contact / Links
-* [cite_start]**Demo Video:** [Vimeo Link](https://vimeo.com/1153542734?share=copy&fl=sv&fe=ci) [cite: 4]
-* **GitHub Repo:** [Insert Link Here]
+* **Demo Video:** [Vimeo Link](https://vimeo.com/1153542734?share=copy&fl=sv&fe=ci)
+* **GitHub Repository:** [Insert Link Here]
+* **Website:** [Insert Portfolio Link Here]
