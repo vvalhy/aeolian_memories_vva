@@ -29,9 +29,9 @@ The project is a computational exploration of geological scales that exceed huma
 * **Display:** Optimized for high-contrast projection on physical surfaces (e.g., white gallery walls).
 
 ## Screenshots / Media
-*(Note: Please replace these placeholders with your actual image files or links)*
-![Final Generative Texture](path/to/your/screenshot1.png)
-*Initial erosion patterns and sedimentary layering.*
+"H:\⭐⭐⭐AAAA CA Term2\WCC2\for pin-up section\pinup01.jpg"
+"H:\⭐⭐⭐AAAA CA Term2\WCC2\for pin-up section\pinup02.jpg"
+"H:\⭐⭐⭐AAAA CA Term2\WCC2\for pin-up section\pinup03.png"
 
 ![Conceptual Sketch]
 *Study of Yardang landforms and particle flow logic.*
