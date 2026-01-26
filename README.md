@@ -1,4 +1,6 @@
 # Aeolian Memories: Texture of Deep Time
+<img width="624" height="543" alt="demo" src="https://github.com/user-attachments/assets/edd929db-5460-4c78-a78e-635586004aed" />
+
 
 ## Short Description
 **Aeolian Memories** is a generative artwork that simulates the incremental processes of wind erosion and sedimentary layering. It aims to materialize the abstract concept of "Deep Time" into a tangible digital texture, transforming a canvas into a long-term temporal record.
