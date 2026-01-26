@@ -29,12 +29,12 @@ The project is a computational exploration of geological scales that exceed huma
 * **Display:** Optimized for high-contrast projection on physical surfaces (e.g., white gallery walls).
 
 ## Screenshots / Media
-"H:\⭐⭐⭐AAAA CA Term2\WCC2\for pin-up section\pinup01.jpg"
-"H:\⭐⭐⭐AAAA CA Term2\WCC2\for pin-up section\pinup02.jpg"
-"H:\⭐⭐⭐AAAA CA Term2\WCC2\for pin-up section\pinup03.png"
+![pinup01](https://github.com/user-attachments/assets/9bb40507-306c-411d-9c24-6089b6d173b8)
+![pinup02](https://github.com/user-attachments/assets/48647223-87bc-4537-a349-db891d00bbbc)
+<img width="3024" height="2416" alt="pinup03" src="https://github.com/user-attachments/assets/0e72e8e0-0708-4378-bb5f-21829689cf0f" />
 
-![Conceptual Sketch]
-*Study of Yardang landforms and particle flow logic.*
+
+
 
 ## Credits / Acknowledgements
 * **Author:** Huayang Lei.
