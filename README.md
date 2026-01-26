@@ -18,7 +18,8 @@ The project is a computational exploration of geological scales that exceed huma
 ## How to Run / Install
 1. **Environment:** Open the project in the [p5.js Web Editor](https://editor.p5js.org/) or any local server environment.
 2. **Audio Initialization:** Click anywhere on the canvas after the sketch loads to enable the audio context.
-3. **Controls:** - Press **"F"** to toggle Fullscreen mode (optimized for gallery projection).
+3. **Controls:**
+    - Press **"F"** to toggle Fullscreen mode (optimized for gallery projection).
     - Note: Resizing the window will automatically trigger a `resetSketch()` to recalibrate the density for the new resolution.
 
 ## Requirements
