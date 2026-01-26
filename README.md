@@ -32,7 +32,7 @@ The project is a computational exploration of geological scales that exceed huma
 ![Final Generative Texture](path/to/your/screenshot1.png)
 *Initial erosion patterns and sedimentary layering.*
 
-![Conceptual Sketch](path/to/your/sketch.png)
+![Conceptual Sketch]
 *Study of Yardang landforms and particle flow logic.*
 
 ## Credits / Acknowledgements
@@ -44,10 +44,7 @@ The project is a computational exploration of geological scales that exceed huma
     - Vincent Ialenti, *Deep Time Reckoning*.
     - Robert Smithson, *A Sedimentation of the Mind: Earth Projects*.
 
-## License
-This project is licensed under the **MIT License**.
 
 ## Contact / Links
-* **Demo Video:** [Vimeo Link](https://vimeo.com/1153542734?share=copy&fl=sv&fe=ci)
-* **GitHub Repository:** [Insert Link Here]
-* **Website:** [Insert Portfolio Link Here]
+* **Demo Video:** https://vimeo.com/1153542734?share=copy&fl=sv&fe=ci
+* **GitHub Repository:** https://github.com/vvalhy/aeolian_memories_vva.git
