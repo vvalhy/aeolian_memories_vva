@@ -1,7 +1,7 @@
 /*
  * Aeolian Memories: Texture of Deep Time
  * Author: Huayang Lei
- * Updated: 2026/01/22 (Final High-Contrast Audio)
+ * Updated: 2026/01/22 (with High-Contrast Audio)
 
 
  * Operation Manual:
@@ -18,13 +18,42 @@
   where invisible temporal forces are materialized into intricate patterns and textures composed of countless fine lines.
 
  * Acknowledgements:
- 1. Technical References (Code):
+ 1. Technical References (Visual):
  - Slime Molds by Patt Vira
   https://p5js.org/sketches/2213463/
+
  - The Nature of Code by Shiffman, D.
   https://natureofcode.com/autonomous-agents/
  
- 2. Conceptual Inspiration:
+ 2. Technical (Audio & Sound Synthesis):
+ - Aeolian Harp Soundscapes by rjcrowe
+  https://www.youtube.com/watch?v=wUSva_BnedA
+
+ - Wind Sound Synthesis (White Noise & Filters) by Michael Heilscher
+  https://www.youtube.com/watch?v=2O3nm0Nvbi4
+
+ - Designing Sound (Chapter 30: Wind) by Farnell, A.
+  https://ebookcentral.proquest.com/lib/goldsmiths/detail.action?docID=3339445
+  (Referencing pp. 416-424: Physical modeling of turbulent airflow and resonance)
+
+ - p5.LowPass Filter Reference by p5.js Team
+  https://p5js.org/reference/p5.sound/p5.LowPass/
+
+ - p5.sound.js Source Code (v1.11.11) by Processing Foundation
+  https://github.com/processing/p5.js/blob/v1.11.11/lib/addons/p5.sound.js
+
+ 3. Documentation & Exhibition (README Structure):
+
+ - Level of Confidence (Project Documentation) by Lozano-Hemmer, R.
+  https://github.com/antimodular/Level-of-Confidence
+
+ - Software-based Art Preservation Standards by Tate Modern
+  https://www.tate.org.uk/about-us/projects/software-based-art-preservation
+
+ - The Artist is Present 2 (Press & Technical Readme) by Barr, P.
+  https://github.com/pippinbarr/the-artist-is-present-2/blob/master/press/README.md
+
+ 4. Conceptual Inspiration:
  - The concept of Deep Time by McPhee in <Annals of the Former World>.
  - Deep Time Reckoning: How Future Thinking Can Help Earth Now by Ialenti, Vincent.
  
