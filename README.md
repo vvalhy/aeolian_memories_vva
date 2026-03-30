@@ -1,5 +1,6 @@
 # Aeolian Memories: Texture of Deep Time
-<img width="624" height="543" alt="demo" src="https://github.com/user-attachments/assets/edd929db-5460-4c78-a78e-635586004aed" />
+<img width="2999" height="1544" alt="AM" src="https://github.com/user-attachments/assets/5736343f-e2a7-4fef-91f9-06c92a3fdd31" />
+
 
 
 ## Short Description
@@ -36,9 +37,11 @@ The project is a computational exploration of geological scales that exceed huma
 
 ## Screenshots / Media
 <img width="1288" height="523" alt="Group 19" src="https://github.com/user-attachments/assets/a2b8b47d-3420-4b91-b4fe-231a9bc95732" />
+<img width="1288" height="630" alt="Group 20" src="https://github.com/user-attachments/assets/2142bc0c-ebb8-438d-9103-af119aa56504" />
+<img width="1288" height="873" alt="b6528b8ecb5721d981aeb48d70f986d 2" src="https://github.com/user-attachments/assets/5e675c51-e8ef-4aa4-8ef0-af7e5fa2bed8" />
 
-![pinup01](https://github.com/user-attachments/assets/9bb40507-306c-411d-9c24-6089b6d173b8)
-![pinup02](https://github.com/user-attachments/assets/48647223-87bc-4537-a349-db891d00bbbc)
+
+
 <img width="3024" height="2416" alt="pinup03" src="https://github.com/user-attachments/assets/0e72e8e0-0708-4378-bb5f-21829689cf0f" />
 
 
