@@ -23,8 +23,9 @@ The project is a computational exploration of geological scales that exceed huma
 3. **Controls:**
     - Press **"F"** to toggle Fullscreen mode (optimized for gallery projection).
     - Note: Resizing the window will automatically trigger a `resetSketch()` to recalibrate the density for the new resolution.
-<img width="213" height="152" alt="image 128" src="https://github.com/user-attachments/assets/6a6388a9-506a-4523-add2-1da0adc69e9b" />
-<img width="160" height="152" alt="image 135" src="https://github.com/user-attachments/assets/10584ba6-4fe0-4e2d-ab75-ac6e7235cc01" />
+
+
+
 
 
 ## Requirements
@@ -34,6 +35,8 @@ The project is a computational exploration of geological scales that exceed huma
 * **Display:** Optimized for high-contrast projection on physical surfaces (e.g., white gallery walls).
 
 ## Screenshots / Media
+<img width="1288" height="523" alt="Group 19" src="https://github.com/user-attachments/assets/a2b8b47d-3420-4b91-b4fe-231a9bc95732" />
+
 ![pinup01](https://github.com/user-attachments/assets/9bb40507-306c-411d-9c24-6089b6d173b8)
 ![pinup02](https://github.com/user-attachments/assets/48647223-87bc-4537-a349-db891d00bbbc)
 <img width="3024" height="2416" alt="pinup03" src="https://github.com/user-attachments/assets/0e72e8e0-0708-4378-bb5f-21829689cf0f" />
