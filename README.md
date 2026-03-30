@@ -47,8 +47,8 @@ The project is a computational exploration of geological scales that exceed huma
 ## Credits / Acknowledgements
 * **Author:** Huayang Lei
 * **Technical References:**
-    - *Slime Molds* by Patt Vira (logic for autonomous agent sensing).
-    - *The Nature of Code* by Daniel Shiffman (autonomous agents and vector math).
+    - *Slime Molds* by Patt Vira (logic for autonomous agent sensing). https://p5js.org/sketches/2213463/
+    - *The Nature of Code* by Daniel Shiffman (autonomous agents and vector math). https://natureofcode.com/particles/
 * **Conceptual References:**
     - John McPhee, *Annals of the Former World*.
     - Vincent Ialenti, *Deep Time Reckoning*.
